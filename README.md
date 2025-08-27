@@ -30,7 +30,7 @@ Tool giúp bạn **tự động gửi tin nhắn** nhiều lần vào cửa sổ
 Mở terminal hoặc command prompt và chạy lệnh sau để tải project về máy:
 
 ```bash
-git clone https://github.com/yourusername/Spam_Message.git
+git clone https://github.com/haivoDA22TTD/Spam_Message.git
 cd Spam_Message
 ```
 ### 🪟 Windows
