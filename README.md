@@ -42,7 +42,7 @@ cd Spam_Message
 Chạy tool:
 
 ```bash
-python spam_tool.py
+python spam_message.py
 ```
 ### 🍎 macOS
 
@@ -58,7 +58,7 @@ pip3 install pyautogui
 
 Chạy tool:
 ```bash
-python3 spam_tool.py
+python3 spam_message.py
 ```
 ### 🐧 Linux (Ubuntu/Debian)
 
@@ -74,5 +74,5 @@ pip3 install pyautogui
 
 Chạy tool:
 ```bash
-python3 spam_tool.py
+python3 spam_message.py
 ```
