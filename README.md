@@ -51,7 +51,7 @@ https://www.python.org/downloads/mac-osx/
 
 Mở Terminal (Cmd + Space, gõ Terminal).
 
-Cài pyautogui:
+Cài đặt pyautogui:
 ```bash
 pip3 install pyautogui
 ```
