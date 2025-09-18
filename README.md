@@ -11,7 +11,7 @@ Tool giúp bạn **tự động gửi tin nhắn** nhiều lần vào cửa sổ
 ## ⚠️ Lưu ý quan trọng
 
 - **Chỉ dùng hợp pháp, có sự đồng ý người nhận.**
-- Tránh gửi tin nhắn quá nhanh, dễ bị khóa tài khoản.
+- Tránh gửi tin nhắn quá nhanh, có thể bị khóa tài khoản.
 - Nên test trước với “Cloud của tôi” trên Zalo hoặc chat với chính bạn.
 - Delay khuyến nghị: **≥ 0.5 giây**.
 
